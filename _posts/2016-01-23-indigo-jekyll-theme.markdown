@@ -31,5 +31,5 @@ What has inside?
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+[Check it out](https://pastbeam.github.io/) here.
+If you need some help, just [tell me](https://github.com/PastBeam/PastBeam.github.io/issues).
