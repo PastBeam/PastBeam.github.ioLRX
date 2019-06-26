@@ -9,8 +9,8 @@ tag:
 - elements
 star: true
 category: blog
-author: Rongxiang Li
-description: Markdown summary with different options
+author: johndoe
+description: Markdown语法介绍
 ---
 
 本中文版Markdown语法简介来自博客 <https://blog.shengbin.me/posts/markdown-syntax>
