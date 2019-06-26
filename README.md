@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img src="https://github.com/PastBeam/PastBeam.github.io/tree/master/assets/screen-shot.png" />
 </p>
 
 ## What has inside
