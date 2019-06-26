@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markdown语法简介
-date: 2013-07-16
-Author: Shengbin
+date: 2019-06-26
+Author: PastBeam
 categories: 
 tags: [sample, markdown]
 comments: true
