@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/PastBeam/PastBeam.github.io/tree/master/assets/screen-shot.png" />
+    <img src="/PastBeam/PastBeam.github.io/blob/master/assets/screen-shot.png?raw=true" />
 </p>
 
 ## What has inside
