@@ -23,8 +23,8 @@ layout: page
 	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Java</li>
+	<li>Informatica</li>
 </ul>
 
 <h2>Projects</h2>
