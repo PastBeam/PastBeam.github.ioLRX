@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>My name is XXX. I am a local person who is 21years old. I am from chongqing and I am of the opinion that my hometown is a beautiful city.
+<p>My name is LiRongxiang. And I was born in ShaoYang,which I consider is the most beautiful city in China.I'm actually a DBA majoring computer science and technology.And I got my bachelor degree when I graduated from my college in 2019.
 
 　　Moreover, I would like to say something about my family. I have my mother ,my father,and my elder sisther,they love me very much,I know my parents have so much hops and dreams for me。So I must study well.
 
@@ -12,7 +12,7 @@ layout: page
 
 　　In spare time, I like reading books, surfing on the Internet, listening to music like, classic, or light music, because they can make me feel relaxed. Nobody could keep on working efficiently, therefore proper amusement is a must. In addition, I insist on do some physical training such as running, and horizontal bar as well. By doing this, I can always stay healthy.</p>
 
-<p>Giao.</p>
+<p>What's up.   Giao.</p>
 
 <h2>Skills</h2>
 
