@@ -18,7 +18,7 @@ layout: page
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
 	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Oracle</li>
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
@@ -30,7 +30,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">HuaZhong University of Science and Technology union ShenZhen Hospital(HIS & MDR)</a></li>
+	<li><a href="https://github.com/">The Ninth Hospital of NanChang(HIS & MDR)</a></li>
+	<li><a href="https://github.com/">HengYang NO.1 Peoples Hospital(HIS & MDR)</a></li>
 </ul>
