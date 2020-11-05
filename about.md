@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>呵呵呵呵呵呵呵呵呵呵.</p>
+<p>我是一个酒精过敏的帅哥，我的酒品爆差，但是我爆爱喝.</p>
 
 <p>哈哈哈哈哈.</p>
 
