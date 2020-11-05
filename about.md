@@ -4,9 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>我是一个酒精过敏的帅哥，我的酒品爆差，但是我爆爱喝.</p>
+<p>My name is XXX. I am a local person who is 21years old. I am from chongqing and I am of the opinion that my hometown is a beautiful city.
 
-<p>哈哈哈哈哈.</p>
+　　Moreover, I would like to say something about my family. I have my mother ,my father,and my elder sisther,they love me very much,I know my parents have so much hops and dreams for me。So I must study well.
+
+　　I have the confidence because I have such ability! I am kind-hearted, patient, outgoing and creative. I am a hard working student especially do the thing I am interested in. I will try my best to resolve any problem no matter how difficult it is. I always believe that one will easily lag behind unless he keeps on learning.
+
+　　In spare time, I like reading books, surfing on the Internet, listening to music like, classic, or light music, because they can make me feel relaxed. Nobody could keep on working efficiently, therefore proper amusement is a must. In addition, I insist on do some physical training such as running, and horizontal bar as well. By doing this, I can always stay healthy.</p>
+
+<p>Giao.</p>
 
 <h2>Skills</h2>
 
