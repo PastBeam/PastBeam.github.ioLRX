@@ -17,7 +17,7 @@ layout: page
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
+	<li>Hadoop</li>
 	<li>Oracle</li>
 	<li>Git</li>
 	<li>PHP</li>
