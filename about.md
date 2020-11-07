@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp;My name is LiRongxiang. And I was born in ShaoYang,which I consider is the most beautiful city in China.I'm actually a DBA majoring computer science and technology.And I got my bachelor degree when I graduated from my college in 2019.</p>
+<p>typing...</p>
 
 <p>typing...</p>
 
