@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://pastbeam.github.io/lightning.html
 
 url: https://pastbeam.github.io
 # your url: http://USERNAME.github.io
@@ -61,10 +61,10 @@ authors:
         picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        name: Rongxiang Li
+        bio: A Man who wanna travel around the world
         external-image: false
-        picture: assets/images/james.jpg
+        picture: assets/images/profile.jpg
         twitter: jamesfoster
 
 # do you want a larger site? change the option below
