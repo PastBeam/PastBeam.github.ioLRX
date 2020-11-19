@@ -50,13 +50,13 @@ let canvas, ctx, w, h, thunder, text, particles;
 
 function Thunder(options) {
     options = options || {};
-    this.lifespan = options.lifespan || Math.round(Math.random() * 10 + 10);
+    this.lifespan = options.lifespan || Math.round(Math.random() * 66 + 10);
     this.maxlife = this.lifespan;
-    this.color = options.color || '#fefefe';
+    this.color = options.color || '#FFC0CB';
     this.glow = options.glow || '#2323fe';
     this.x = options.x || Math.random() * w;
     this.y = options.y || Math.random() * h;
-    this.width = options.width || 2;
+    this.width = options.width || 1;
     this.direct = options.direct || Math.random() * Math.PI * 2;
     this.max = options.max || Math.round(Math.random() * 10 + 20);
     this.segments = [...new Array(this.max)].map(() => {
@@ -175,9 +175,9 @@ function Text(options) {
     buffer.fillStyle = '#000000';
     buffer.fillRect(0, 0, pool.width, pool.height);
 
-    this.size = options.size || 100;
+    this.size = options.size || 80;
     this.copy = (options.copy || `Hello!`) + ' ';
-    this.color = options.color || '#cd96fe';
+    this.color = options.color || '#FFB6C1';
     this.delay = options.delay || 5;
     this.basedelay = this.delay;
     buffer.font = `${this.size}px Comic Sans MS`;
@@ -259,7 +259,7 @@ function render() {
     particles = [];
     //
     text = new Text({
-        copy: '佳丽,做我女朋友吧？',
+        copy: '佳丽,做我女朋友吧!?',
 		delay: 0.01
     });
     canvas.addEventListener('click', (e) => {
